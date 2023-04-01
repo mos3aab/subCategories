@@ -12,9 +12,9 @@
 - PHP version 8.1
 - Mysql DB 
 ## End Points 
- -- /select  select box then create select box category/sub
- -- {category}   to crud  category resource [create,edit,update,delete,list]
--- /category/list - /category/add - /category/edit/{id} ...etc
+ - {select}  select box then create select box category/sub
+ - {category}   to crud  category resource [create,edit,update,delete,list]
+ - /category/list - /category/add - /category/edit/{id} ...etc
 
 
 ## License
